@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SNS Blocker</string>
+    <string name="accessibility_service_description">SNSアプリの使用を制限するために、起動中のアプリを監視します。個人情報の収集は一切行いません。</string>
+</resources>
